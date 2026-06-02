@@ -1,0 +1,276 @@
+{
+  "haemoglobin": [
+    "hemoglobin (hb/hgb)",
+    "haemoglobin (hb/hgb)",
+    "hemoglobin (hb",
+    "haemoglobin (hb",
+    "hemoglobin (hgb",
+    "haemoglobin (hgb",
+    "hemoglobin",
+    "haemoglobin",
+    "hb/hgb",
+    "hgb",
+    "hb conc"
+  ],
+  "wbc_count": [
+    "white blood cell (wbc)",
+    "white blood cells (wbc)",
+    "white blood cell",
+    "white blood cells",
+    "wbc count",
+    "total wbc",
+    "leucocytes",
+    "leukocytes",
+    "total white blood cell",
+    "total white blood cells",
+    "total w.b.c.",
+    "total w. b. c.",
+    "w.b.c.",
+    "w. b. c.",
+    "wbc count",
+    "total wbc",
+    "tlc",
+    "leucocytes",
+    "leukocytes",
+    "wbc"
+  ],
+  "rbc_count": [
+    "red blood cell (rbc)",
+    "red blood cells (rbc)",
+    "red blood cell",
+    "red blood cells",
+    "rbc count",
+    "erythrocytes",
+    "rbc",
+    "total red blood cell",
+    "total red blood cells",
+    "total r.b.c.",
+    "total r. b. c.",
+    "r.b.c.",
+    "r. b. c.",
+    "rbc count",
+    "erythrocytes",
+    "rbc"
+  ],
+  "packed_cell_volume": [
+    "hematocrit (hct)",
+    "haematocrit (hct)",
+    "hematocrit",
+    "haematocrit",
+    "packed cell volume",
+    "pcv",
+    "hct",
+    "p.c.v.",
+    "p. c. v."
+  ],
+  "platelets": [
+    "platelet count",
+    "platelet",
+    "platelets",
+    "thrombocytes",
+    "plt"
+  ],
+  "mcv": [
+    "mean cell volume (mcv)",
+    "mean corpuscular volume (mcv)",
+    "mean cell volume",
+    "mean corpuscular volume",
+    "m.c.v.",
+    "m. c. v.",
+    "mcv"
+  ],
+  "mch": [
+    "mean cell hemoglobin (mch)",
+    "mean cell haemoglobin (mch)",
+    "mean corpuscular hemoglobin (mch)",
+    "mean cell hemoglobin",
+    "mean cell haemoglobin",
+    "mean corpuscular hemoglobin",
+    "mch"
+  ],
+  "mchc": [
+    "mean cell hb conc (mchc)",
+    "mean cell hemoglobin concentration (mchc)",
+    "mean corpuscular hemoglobin concentration (mchc)",
+    "mean cell hb conc",
+    "mean cell hemoglobin concentration",
+    "mean corpuscular hemoglobin concentration",
+    "mchc",
+    "m.c.h.c.",
+    "m. c. h. c."
+  ],
+  "rdw": [
+    "red cell dist width (rdw)",
+    "red cell distribution width (rdw)",
+    "red cell dist width",
+    "red cell distribution width",
+    "rdw"
+  ],
+  "fasting_glucose": [
+    "fasting plasma glucose",
+    "fasting blood glucose",
+    "fasting blood sugar",
+    "blood glucose fasting",
+    "glucose fasting",
+    "fasting glucose",
+    "fbs",
+    "fpg"
+  ],
+  "hba1c": [
+    "glycated haemoglobin",
+    "glycated hemoglobin",
+    "glycohaemoglobin",
+    "glycohemoglobin",
+    "hb a1c",
+    "hba1c",
+    "glycosylated hemoglobin, hba1c",
+    "glycosylated haemoglobin, hba1c",
+    "glycosylated hemoglobin hba1c",
+    "glycosylated haemoglobin hba1c",
+    "hb a1c",
+    "a1c"
+  ],
+  "creatinine": [
+    "serum creatinine",
+    "s. creatinine",
+    "s creatinine",
+    "creatinine"
+  ],
+  "blood_urea": [
+    "blood urea nitrogen",
+    "blood urea",
+    "serum urea",
+    "urea nitrogen",
+    "urea",
+    "bun"
+  ],
+  "sodium": [
+    "serum sodium",
+    "s. sodium",
+    "s sodium",
+    "sodium"
+  ],
+  "potassium": [
+    "serum potassium",
+    "s. potassium",
+    "s potassium",
+    "potassium"
+  ],
+  "tot_bilirubin": [
+    "total bilirubin",
+    "tot bilirubin",
+    "t. bilirubin",
+    "bilirubin total",
+    "bilirubin (t)",
+    "bilirubin, total"
+  ],
+  "direct_bilirubin": [
+    "direct bilirubin",
+    "dir bilirubin",
+    "d. bilirubin",
+    "bilirubin direct",
+    "bilirubin (d)",
+    "bilirubin, direct"
+  ],
+  "alkphos": [
+    "alkaline phosphatase",
+    "alkaline phosphotase",
+    "alk phosphatase",
+    "alk phos",
+    "alkphos",
+    "alp"
+  ],
+  "sgpt": [
+    "alanine aminotransferase",
+    "alamine aminotransferase",
+    "alanine transaminase",
+    "sgpt",
+    "alt"
+  ],
+  "sgot": [
+    "aspartate aminotransferase",
+    "aspartate transaminase",
+    "sgot",
+    "ast"
+  ],
+  "tot_proteins": [
+    "total proteins",
+    "total protein",
+    "tot proteins",
+    "tot protein",
+    "serum protein",
+    "proteins total"
+  ],
+  "albumin": [
+    "serum albumin",
+    "albumin",
+    "alb"
+  ],
+  "ag_ratio": [
+    "albumin globulin ratio",
+    "alb/glob ratio",
+    "a/g ratio",
+    "ag ratio",
+    "a/g"
+  ],
+  "tsh": [
+    "thyroid stimulating hormone",
+    "thyrotropin",
+    "tsh"
+  ],
+  "t3": [
+    "triiodothyronine",
+    "total t3",
+    "t3 total",
+    "t3 (total)",
+    "serum t3"
+  ],
+  "t4": [
+    "thyroxine",
+    "total t4",
+    "t4 total",
+    "t4 (total)",
+    "serum t4"
+  ],
+  "vitamin_d": [
+    "25-hydroxyvitamin d",
+    "25-oh vitamin d",
+    "25 hydroxyvitamin d",
+    "vitamin d3",
+    "vitamin d"
+  ],
+  "vitamin_b12": [
+    "vitamin b12",
+    "vit b12",
+    "cyanocobalamin",
+    "cobalamin"
+  ],
+  "total_cholesterol": [
+    "total cholesterol",
+    "cholesterol total",
+    "tot cholesterol",
+    "serum cholesterol",
+    "cholesterol"
+  ],
+  "ldl": [
+    "ldl cholesterol",
+    "low density lipoprotein",
+    "ldl-cholesterol",
+    "ldl-c",
+    "ldl"
+  ],
+  "hdl": [
+    "hdl cholesterol",
+    "high density lipoprotein",
+    "hdl-cholesterol",
+    "hdl-c",
+    "hdl"
+  ],
+  "triglycerides": [
+    "triglycerides",
+    "serum triglycerides",
+    "triacylglycerol",
+    "triglyceride",
+    "tg"
+  ]
+}
