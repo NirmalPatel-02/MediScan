@@ -1,0 +1,14 @@
+name: Keep MediScan Alive
+
+on:
+  schedule:
+    - cron: '0 */6 * * *' 
+  workflow_dispatch:
+
+jobs:
+  ping:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Ping MediScan backend
+        run: |
+          curl https://nirmal-patel-mediscan-backend.hf.space/health
