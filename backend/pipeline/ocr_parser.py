@@ -63,7 +63,7 @@ def _try_paddleocr(pdf_path: str) -> str:
     except Exception as e:
         print(f"[PaddleOCR] Error: {e}")
     return full_text
-
+ 
 
 def _is_good_text(text: str) -> bool:
     cleaned = text.strip().replace('\n', '').replace(' ', '')
